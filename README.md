@@ -46,6 +46,9 @@ Here’s a screenshot illustrating some of the steps of the data cleaning proces
 
 ![image](https://github.com/user-attachments/assets/43131178-4b01-4e10-bc19-ce6707cceb8b)
 
+## Acknowledgments
+
+This project was developed with assistance from OpenAI's ChatGPT for generating ideas, explanations, and code snippets.
 
 ## Requirements
 
